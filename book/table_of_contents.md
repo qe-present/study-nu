@@ -1,0 +1,41 @@
+# 目录
+
+- [安装](installation.md) - 安装 Nushell
+- [介绍](README.md) - 开始使用
+- [Nushell 开发思想](thinking_in_nu.md) - Nushell 开发思想
+- [移动操作](moving_around.md) - 在 Nushell 中移动
+- [数据类型](types_of_data.md) - Nushell 中的数据类型
+- [加载数据](loading_data.md) - 加载及使用数据
+- [字符串](working_with_strings.md) - 字符串、转义字符和字符串插值
+- [使用列表](working_with_lists.md) - 使用 Nushell 的列表
+- [使用表格](working_with_tables.md) - 使用 Nushell 的表格
+- [管道](pipelines.md) - 管道工作原理
+- [配置](configuration.md) - 如何配置 Nushell
+- [第三方提示符](3rdpartyprompts.md) - 如何配置第三方提示符
+- [自定义命令](custom_commands.md) - 创建自定义命令
+- [别名](aliases.md) - 如何创建命令别名
+- [运算符](operators.md) - Nushell 支持的运算符
+- [变量](variables.md) - 使用变量
+- [控制流](control_flow.md) - 使用控制流命令
+- [环境变量](environment.md) - 使用环境变量
+- [标准输出、错误和退出码](stdout_stderr_exit_codes.md) - 处理标准输出、错误和退出码
+- [模块](modules.md) - 创建和使用模块
+- [钩子](hooks.md) - 添加自动运行的代码片段
+- [脚本](scripts.md) - 创建脚本
+- [元数据](metadata.md) - Nushell 元数据系统说明
+- [创建自定义错误](creating_errors.md) - 创建自定义错误信息
+- [目录栈](directory_stack.md) - 在多个位置间工作
+- [运行外部命令](running_externals.md) - 运行有命名冲突的外部命令
+- [插件](plugins.md) - 使用插件扩展功能
+- [并行](parallelism.md) - 并行运行代码
+- [行编辑器](line_editor.md) - Nushell 行编辑器
+- [数据帧](dataframes.md) - 使用数据帧
+- [探索](explore.md) - 使用 Nushell TUI
+- [配色和主题](coloring_and_theming.md) - 修改颜色和主题
+- [正则表达式](regular_expressions.md) - 正则表达式指南
+- [从 Bash 迁移](coming_from_bash.md) - Bash 用户指南
+- [Nushell 与其他 Shell/DSL 对比](nushell_map.md) - 与 SQL、LINQ、PowerShell 和 Bash 的比较
+- [Nushell 与命令式语言对比](nushell_map_imperative.md) - 与 Python、Kotlin、C++、C# 和 Rust 的比较
+- [Nushell 与函数式语言对比](nushell_map_functional.md) - 与 Clojure、Tablecloth (OCaml/Elm) 和 Haskell 的比较
+- [Nushell 运算符对比](nushell_operator_map.md) - 与通用编程语言运算符比较
+- [命令参考](/commands/) - Nushell 命令列表
